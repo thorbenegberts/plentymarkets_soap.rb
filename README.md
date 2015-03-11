@@ -1,2 +1,2 @@
 # plentymarkets_soap.rb
-Ruby client for plentymarkets' SOAP API
+A Ruby rip-off of plentymarkets' [php_soap_client](https://github.com/plentymarkets/php_soap_client/).
